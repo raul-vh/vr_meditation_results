@@ -12,6 +12,15 @@ The project followed a between subjects design with two conditions:
 
 For privacy reasons no names are included.
 
+## Note on missing/invalid values
+
+| Participant | Reason/Error                                     |
+| ----------- | ------------------------------------------------ |
+| 3           | headset lost power so very short meditation time |
+| 5           | did not have any heartrate measurements          |
+| 14          | had no survey data                               |
+| 28          | did not have any heartrate measurements          |
+
 ## Table information of final dataset
 
 This table organizes the variables and their descriptions in a clear and easy-to-read format.
