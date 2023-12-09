@@ -9,7 +9,7 @@ B: 5 minute stitting meditation in a silent space
 
 For privacy reasons no names are included.
 
-## Table information
+## Table information of final dataset
 This table organizes the variables and their descriptions in a clear and easy-to-read format.
 
 | Variable                  | Description                                       |
